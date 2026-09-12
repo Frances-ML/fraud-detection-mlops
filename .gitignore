@@ -1,0 +1,8 @@
+data/
+*.parquet
+*.csv
+*.tar.gz
+*.zip
+.ipynb_checkpoints/
+bundle/
+!evidence/*.csv

@@ -1,0 +1,16 @@
+source,group,n_columns,mean_missing
+transaction,V — Vesta engineered,339,0.43
+transaction,D — timedelta,15,0.582
+transaction,C — counting,14,0.0
+transaction,M — match flags,9,0.499
+transaction,card attributes,6,0.005
+transaction,address,2,0.111
+transaction,distance,2,0.766
+transaction,email domain,2,0.464
+transaction,transaction attributes,2,0.0
+transaction,identifier,1,0.0
+transaction,target,1,0.0
+transaction,time,1,0.0
+identity,id — identity,38,0.379
+identity,device,2,0.1
+identity,identifier,1,0.0

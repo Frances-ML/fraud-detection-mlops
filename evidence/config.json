@@ -1,0 +1,53 @@
+{
+  "SEED": 42,
+  "BEST_ITER": 384,
+  "THRESH": 0.7747125029563904,
+  "TAU": 0.050082773162153454,
+  "WINDOW_DAYS": 7,
+  "N_WINDOWS": 12,
+  "GAP_WINDOWS": 1,
+  "ONSET": 4,
+  "RETRAIN_ROWS": 150000,
+  "MIN_COVERAGE": 0.5,
+  "MIN_BINS": 2,
+  "MIN_BIN_PROP": 0.01,
+  "N_BINS": 10,
+  "N_MONITOR": 20,
+  "monitored": [
+    "V70",
+    "V294",
+    "V91",
+    "C14",
+    "C8",
+    "C4",
+    "card6",
+    "C10",
+    "V49",
+    "M4",
+    "V30",
+    "V308",
+    "V93",
+    "V312",
+    "V72",
+    "V128",
+    "V34",
+    "ProductCD",
+    "D3",
+    "V62"
+  ],
+  "val_pr_auc": 0.5098456193134424,
+  "injection_targets": [
+    "C4",
+    "C8",
+    "C14",
+    "card6",
+    "TransactionAmt"
+  ],
+  "params": {
+    "objective": "binary:logistic",
+    "eval_metric": "aucpr",
+    "seed": 42,
+    "max_depth": 6,
+    "eta": 0.1
+  }
+}

@@ -1,0 +1,3 @@
+file,rows,columns,memory_GB
+train_transaction.csv,590540,394,2.16
+train_identity.csv,144233,41,0.15

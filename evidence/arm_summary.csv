@@ -1,0 +1,4 @@
+arm,retrains,promotions,train_secs,mean_pr_auc,mean_pr_auc_drift,mean_f1_drift,final_pr_auc,detect_latency
+static,0,0,0.0,0.4364,0.3882,0.3855,0.4405,
+scheduled,3,3,67.0,0.4617,0.4262,0.4258,0.5391,
+psi,8,8,179.5,0.4734,0.4436,0.4438,0.5412,0.0

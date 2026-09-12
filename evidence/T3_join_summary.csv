@@ -1,0 +1,2 @@
+rows_before_join,rows_after_join,columns_after,identity_match_rate,fraud_rate,fraud_rate_with_identity,fraud_rate_without_identity
+590540,590540,435,0.2442,0.03499,0.07847,0.02094

@@ -1,0 +1,21 @@
+feature,gain,reason
+V258,8403.0,coverage 0.274
+V187,1581.2,coverage 0.288
+V141,688.2,coverage 0.193
+V330,423.9,coverage 0.193
+V326,388.2,coverage 0.193
+V163,357.3,coverage 0.193
+V198,348.7,coverage 0.288
+V324,340.3,coverage 0.193
+V189,329.5,coverage 0.288
+C1,326.3,sparsest bin 0.0008
+D2,284.6,coverage 0.488
+V156,280.5,coverage 0.193
+C11,276.7,sparsest bin 0.0012
+V231,272.2,coverage 0.274
+addr2,268.8,sparsest bin 0.0095
+id_32,254.0,coverage 0.182
+V152,247.5,coverage 0.193
+V133,240.3,only 1 bins
+V286,216.6,only 1 bins
+V45,213.6,sparsest bin 0.0009
